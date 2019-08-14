@@ -1,0 +1,10 @@
+{
+    "name": "mdsystems/raphael",
+    "description": "Forked version of raphael from https://github.com/DmitryBaranovskiy/raphael",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
